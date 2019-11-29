@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+}
+
+.a1 td {
+    position: relative;
+    background-color: green;
+    width: 45%;
+    height: 20px;
+    margin: 0;
+}
+
+.a2 td {
+    position: relative;
+    background-color: yellow;
+    width: 45%;
+    height: 60px;
+    margin: 0;
+}
+
+.a3 td {
+    position: relative;
+    background-color: blue;
+    width: 33%;
+    height: 40px;
+    margin: 0;
+}
+
+.a4 td {
+    position: relative;
+    background-color: grey;
+    width: 25%;
+    height: 25px;
+    margin: 0;
+}

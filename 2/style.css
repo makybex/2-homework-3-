@@ -1,0 +1,36 @@
+.a1 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background: #e41414;
+    top: 1px;
+    left: 1px;
+}
+
+.a2 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background: #1b5e00;
+    top: 61px;
+    left: 61px;
+}
+
+.a3 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background: #19005e;
+    top: 121px;
+    left: 121px;
+}
+
+.b1 {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    border: 1px solid black;
+    top: 0px;
+    margin: 0;
+    left: 0px;
+}

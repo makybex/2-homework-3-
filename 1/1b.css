@@ -1,0 +1,41 @@
+div {
+    width: 100%;
+    margin: 0, auto;
+}
+
+.a11 p {
+    position: relative;
+    width: 49.8%;
+    height: 50px;
+    background: orange;
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: top;
+}
+
+.b22 p {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background: yellow;
+    display: inline-block;
+    margin: 0;
+}
+
+.c33 p {
+    position: relative;
+    width: 33%;
+    height: 50px;
+    background: blue;
+    display: inline-block;
+    margin: 0;
+}
+
+.d44 p {
+    position: relative;
+    width: 24.7%;
+    height: 50px;
+    background: gray;
+    display: inline-block;
+    margin: 0;
+}
